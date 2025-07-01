@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/1222617763063926938" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1222617763063926938?borderRadius=5px&animated=true&bg=273849&showDisplayName=true&animatedDecoration=true&hideSpotify=false&borderRadius=40px&idleMessage=AFK%20for%20a%20bit,%20but%20always%20happy%20to%20connect!" alt="Discord Status">
+    <img src="https://lanyard.cnrad.dev/api/1222617763063926938?borderRadius=5px&animated=true&bg=273849&showDisplayName=true&animatedDecoration=true&hideSpotify=false&borderRadius=40px&idleMessage=Was%20ich%20mache%20willst%20du%20wissen%3F%20Nicht%20viel%20nur...%20Meine%20Website%20umbauen...%2C%20Aber%20bleib%20dran%20%F0%9F%A4%AD%F0%9F%99%8F%E2%9C%88%EF%B8%8F%F0%9F%9A%80.%20Vielleicht%20steht%20da%20bald%20was%20anderes%20als%20jetzt%3F%20Wer%20wei%C3%9F..." alt="Discord Status">
   </a>
 </div>
 
