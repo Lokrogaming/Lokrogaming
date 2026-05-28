@@ -39,6 +39,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lokrogaming/Lokrogaming/output/snake.svg" alt="Snake animation" />
+</div>
+
 ## 👁️‍🗨️ Besucherzähler
 
 <div align="center">
