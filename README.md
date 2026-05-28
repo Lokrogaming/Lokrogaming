@@ -46,7 +46,7 @@
 ## 👁️‍🗨️ Besucherzähler
 
 <div align="center">
-     <img src="https://count.getloli.com/@Lokrogaming" alt=":name" />
+     <img src="https://count.getloli.com/@lokrogamer?name=lokrogamer&theme=sketch-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt=":name" />
 </div>
 
 ---
