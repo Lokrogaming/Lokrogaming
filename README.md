@@ -29,7 +29,7 @@
 # :bar_chart: GitHub Stats
 
 <div align="center">
-[!(https://streak-stats.demolab.com?user=Lokrogaming&theme=git-dark&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&fire=9E21EB&background=45%2C411717%2C000000)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lokrogaming&theme=git-dark&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&fire=9E21EB&background=45%2C411717%2C000000)](https://github.com/Lokrogaming)
 </div>
 
 ---
