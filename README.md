@@ -29,7 +29,7 @@
 # :bar_chart: GitHub Stats
 
 <div align="center">
-discord,windows,vue,vim,vite,vscode,visualstudio,unity,ts,tailwind,svg,supabase,stackoverflow,robloxstudio,react,pytorch,py,powershellpostgres,php,ps,npm,nodejs,netlify,nextjs,mysql,md,lua,linux,kali,instagram,html,githubactions,github,git,flutter,firebase,express,docker,discordjs,arch,arduino,bash,bootstrap,cloudflare,css,debian
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lokrogaming&theme=git-dark&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&fire=9E21EB&background=45%2C411717%2C000000)](https://git.io/streak-stats)
 </div>
 
 ---
