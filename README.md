@@ -18,10 +18,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+[![My Skills](https://skillicons.dev/icons?i=discord,windows,vue,vim,vite,vscode,visualstudio,unity,ts,tailwind,svg,supabase,stackoverflow,robloxstudio,react,pytorch,py,powershellpostgres,php,ps,npm,nodejs,netlify,nextjs,mysql,md,lua,linux,kali,instagram,html,githubactions,github,git,flutter,firebase,express,docker,discordjs,arch,arduino,bash,bootstrap,cloudflare,css,debian&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -32,7 +29,7 @@
 # :bar_chart: GitHub Stats
 
 <div align="center">
-discord,windows,vue,vim,vite,vscode,visualstudio,unity,ts,tailwind,svg,supabase,stackoverflow,robloxstudio,react,pytorch,py,powershellpostgres,php,ps,npm,nodejs,netlify,nextjs,mysql,md,lua,linux,kali,instagram,html,githubactions,github,git,flutter,firebase,express,docker,discordjs
+discord,windows,vue,vim,vite,vscode,visualstudio,unity,ts,tailwind,svg,supabase,stackoverflow,robloxstudio,react,pytorch,py,powershellpostgres,php,ps,npm,nodejs,netlify,nextjs,mysql,md,lua,linux,kali,instagram,html,githubactions,github,git,flutter,firebase,express,docker,discordjs,arch,arduino,bash,bootstrap,cloudflare,css,debian
 </div>
 
 ---
